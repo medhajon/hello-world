@@ -4,7 +4,7 @@ First repository on GitHib
 ## HelloWorld
 
 ### App Description
-`TODO://` It is an app where the user gets to modify the screen. The user has options to change the background color of the text color using the buttons on the screen. If the user wants to change it back to its original screen, they can touch the background to have its default setting. The user can also change the text. After typing the desired text, the user has to press 'Change Text' in order to get their text displayed. If the user sends in a blank text, the text field will display its default text.
+`TODO://` It is an app where the user gets to modify the screen. The user has the option to change the background color or the text color using the buttons on the screen. If the user wants it back to its original screen, they can touch the background to have its default setting. The user can also change the text. After typing their desired text, the user has to press 'Change Text' in order to get their text displayed. If the user sends an empty text field, the text will display its default text message.
 
 ### App Walk-though
 `TODO://` 

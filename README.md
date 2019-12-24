@@ -8,7 +8,6 @@ First repository on GitHib
 
 ### App Walk-though
 `TODO://` 
-![Recording1](https://user-images.githubusercontent.com/44420206/71424887-60bbf980-265c-11ea-9581-0e1ede9e354f.gif)
 <img src="https://user-images.githubusercontent.com/44420206/71424887-60bbf980-265c-11ea-9581-0e1ede9e354f.gif" width=200><br>
 
 `TODO://` 

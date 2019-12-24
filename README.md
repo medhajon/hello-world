@@ -15,7 +15,7 @@ First repository on GitHib
 
 `TODO://` 
 ### Required User Stories
-- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 1. User sees custom text in a label - Hello from Medha!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 

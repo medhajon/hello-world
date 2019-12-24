@@ -8,8 +8,7 @@ First repository on GitHib
 
 ### App Walk-though
 `TODO://` 
-
-<img src="https://user-images.githubusercontent.com/44420206/71424887-60bbf980-265c-11ea-9581-0e1ede9e354f.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/44420206/71425755-4be46380-2666-11ea-988d-c06803888192.gif" width=200><br>
 
 
 
